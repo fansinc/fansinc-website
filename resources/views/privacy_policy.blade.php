@@ -1,0 +1,152 @@
+@extends('layouts.app')
+@section('content')
+<style>
+
+body{
+    background-color: #181d38;
+}
+</style>
+  <div class="container">
+    <div class="row">
+      <!-- <div class="col-md-1"></div> -->
+      <div class="col-md-4" style="margin-top: 1rem;">
+        <!-- <a href="index.html"><img src="assets/img/Fans Inc Logo WO.png" width="240px" height="40px" class="img-fluid"></a>
+        <p style="font-size: 14px;color: white; margin-top: 13px;  "></p> -->
+      </div>
+      <div class="col-md-9"></div>
+    </div>
+
+    <div class="row">
+  <div class="col-md-2"></div>
+  <div class="col-md-8" style="color: white;">
+    <h4 class="title" style="text-align: center;color: white;font-size: 23px;">Privacy and Cookies Policy FANSINC Group</h4>
+
+
+  </div>
+  <div class="col-md-2"></div>
+
+      </div>
+
+  </div>
+
+
+  <main id="main" >
+
+
+    <section class="inner-page pt-4">
+      <div class="container">
+<div class="row">
+  <h4 style="color: white;">1. What’s in this policy?</h4>
+  <h5 style="color: white;">This policy tells you:</h5>
+  <ul style="margin-left: 1rem;">
+
+    <li class="wht" style="font-size: 18px;color: white;"><p>What information we might collect about you</p></li>
+    <li class="wht" style="font-size: 18px;color: white;"><p>How we might use that information</p>
+      </li>
+      <li class="wht" style="font-size: 18px;color: white;"><p>When we might use your details to contact you</p></li>
+      <li class="wht" style="font-size: 18px;color: white;"><p>What information of yours we might share with others</p></li>
+      <li class="wht" style="font-size: 18px;color: white;"><p>Your choices about the personal information you give us</p></li>
+  </ul>
+  <h4 style="color: white;">2. What does this policy cover? </h4>
+  <div  style="font-size: 18px;color: white;">This policy covers the services that are offered by the FANSINC Group Ltd And sometimes it covers services offer ed by parts of our organisation that operate as separate companies. Such as: FANSINC  & FANSINC Events <br><br></div>
+
+  <h4 style="color: white;">3. What’s not covered in this policy?  </h4>
+
+  <div  style="font-size: 18px;color: white;">Our services sometimes link to other company services, like opening a track from FANSINC  on another music service. Those companies have their own privacy and cookies policies, so remember that the information you give them will follow their rules and not ours. Sometimes you can access our services from other places, like Facebook, YouTube page. Make sure to check their privacy policy so you know how they will use your information.<br><br></div>
+
+ <h4 style="color: white;">4. How do you protect my personal information? </h4>
+ <div  style="font-size: 18px;color: white;">We are strongly committed to keeping your information safe. And to do this we design our services with your safety in mind. We also have dedicated teams to look after your information security and privacy. At the same time, no service can be completely secure – if you have any concerns that your personal information has been put at risk, please get in touch straight away. We store all your information in the UK. <br><br></div>
+
+
+ <h4 style="color: white;">5. What types of personal information does the FANSINC  collect about me? </h4>
+
+ <div  style="font-size: 18px;color: white;">We will give you full details of the information we collect and why we need your personal information and how we will use it
+  <ol type="a" start="1">
+    <li>Information that you give us We might ask for your name and contact details, your date of birth depending on what you are doing. If you apply to
+      take part in a programme on competition, for example, we might ask you about your name, your preferences, opinions. Information you give us might include information in a creation you share with us, such as people’s name that appear in the creation.
+    </li>
+    <li>Device information Devices are lots of things like: Your computer, your mobile, your tablet. We automatically collect some technical information from these devices and web browsers. This might include IP (internet protocol) address and device ID</li>
+
+  </ol>
+
+
+</div>
+<h4 style="color: white;">6. How long will the FANSINC Group keep my personal information? </h4>
+<div  style="font-size: 18px;color: white;">
+  When you give us any personal information, we will inform you how long we will hold. And we always stick to these principles as per data protection law and GDPR: We only hold your information for as long as we do the activities we told you about or have a valid reason to keep it, we think about what type of information it is, the amount collected, how sensitive it might be and any legal requirements, we design our services so that we do not hold information any longer than necessary.
+<br><br>
+</div>
+
+<h4 style="color: white;">7. How can the FANSINC Group use my personal information? </h4>
+<div  style="font-size: 18px;color: white;">
+  As per UK law we require a valid reason to use your personal information. It is called the “lawful basis for processing”. Sometimes we might ask your permission to do things, like when you subscribe to a service or when you would expect us to use information.  Under some circumstanced we don’t ask your permission, but only when: the UK Law allows us to do so and it fits with the rights you have.<br><br>
+  We use your information for the following reasons:
+  <ol type="a" start="1">
+<li>to deliver our services and to provide you with information about them </li>
+<li>to deal with your requests, complaints and enquiries </li>
+<li>to personalise services and give you things more tailored to your tastes </li>
+<li>to show you relevant advertising on another companies site f</li>
+<li>to help us understand what kind of services you might use </li>
+<li> to recommend things we think might interest you</li>
+<li>to show you advertising when you access a FANSINC Group service </li>
+<li>to research and innovate</li>
+<li>to contact you about various things</li>
+
+
+    </ol>
+</div>
+<h4 style="color: white;">8. When will the FANSINC Group use my information to contact me?  </h4>
+<div  style="font-size: 18px;color: white;">
+
+  We will only contact you when we need to and when you have given us permission do so.
+  We might use your information to contact you about different things, like: to update you changes to services, practices and Terms of Use , to contact you about a creation you sent us, like music preferences, to answer queries when you contacted us, or to respond to a comment or complaint, to invite you to take part in surveys about out services which is always voluntary, for marketing purposes, to send you notifications on your device depending on settings and preferences.<br><br>
+  </div>
+
+  <h4 style="color: white;">9.When does the FANSINC Group share my personal information with others?  </h4>
+  <div  style="font-size: 18px;color: white;">
+
+    We’ll never sell your personal information. We do share it with others in these ways: a. When you make something public Like post a comment which the public can see. b. When we use other companies to power our services in order for us to give you quality experiences and to understand how you are using our services. c. When we share personal information with companies in the FANSINC family d. When you use another companies service that connects to us. e. When we do collaborative research, we do research activities and sometimes collaborate with research partners. Every now and then we share our content and data with them. This might include information we have collected about you. We are very careful about what we share and what our research partners can do with it. g. Sometimes by law we have to pass on your information to other organisations We might also share your information if we have to by law, or when we need to protect you or other people from harm.
+<br><br>
+
+    </div>
+
+    <h4 style="color: white;">10.What are my rights?   </h4>
+    <div  style="font-size: 18px;color: white;">
+      You are in control of your personal information. You have the right to: request a copy of your information,  to ask us to correct information if we got it wrong, to delete it or to request that we only use it for certain purposes,  to change your mind, and ask us to stop using your information. For example, unsubscribing from any marketing emails or turning off personalisation Bear in mind, sometimes we might not be able to help. Like if the law tells us we can’t, or it forms part of our ratio station output.
+<br><br>
+      </div>
+      <h4 style="color: white;">11.How does the FANSINC Group use cookies and similar tracking? </h4>
+      <div  style="font-size: 18px;color: white;">
+       <b> What are cookies and tracking technologies?</b>  Cookies are small text files which are transferred to your computer or mobile when you visit a website or app. There are also similar pieces of tracking information we collect. <br><br>
+
+       <b> Why do we use cookies and other tracking?</b>  To do a few different things: to remember information about you so we don’t have keep asking you again, to help us understand how people are using our services, so we can make them better, to help us personalise the FANSINC service to you by remembering your preferences and settings, to find out if our emails have been read and if you find them useful <br><br>
+
+      <b> What are the types of cookies?</b>  Some cookies are always on when you visit us, and you may not be able to turn off unless you change your browser settings. We call these “strictly necessary cookies”. We use them to make sure our digital services work correctly and are meeting audience needs and interests. We also use functional, performance and advertising cookies to make your experience more enjoyable. You can switch these on or off at any time and you can always change your mind. We will only use them if you have agreed. <br><br>
+
+     <b> How long do cookies last?</b>  Some are erased when you close the browser on your website or app. Others stay longer, sometimes forever, and are saved onto your device. <br><br>
+     <b> How do I control my cookies and tracking?</b>  Strictly necessary cookies are always on when you visit us. On your first visit to us, we will tell you other types of cookies and ask you to choose which cookies we can use. You can always change your mind by going to your settings. Stopping all cookies may result in some service may not work properly for you. <br><br>
+
+    </div>
+
+    <h4 style="color: white;">12. How will I find out about changes to this policy?    </h4>
+    <div  style="font-size: 18px;color: white;">
+      We update this policy sometimes. If we make important changes, like how we use your personal information, we will let you know through your preferred contact details. It might be a notice, an email or a message in your app. If you don’t agree to the changes, then you can always stop using our services, delete your account and stop giving your personal information. <br><br>
+
+      </div>
+      <h4 style="color: white;">13. How can I contact the FANSINC Group?   </h4>
+      <div  style="font-size: 18px;color: white;">
+        To find out more and contact us about your rights and for other questions or comments about this policy speak to our Data Protection Officer via by email and/or by post as shown in our group website http://www.fansinc.io/contact/
+<br><br><br><br>
+        </div>
+
+
+</div>
+
+
+
+      </div>
+    </section>
+
+  </main><!-- End #main -->
+
+@endsection
